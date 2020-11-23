@@ -1,4 +1,4 @@
-# horiseon
+# Horiseon_refactor_debug
 **Introduction:**
 The Company is a website that helps businesses find clients that are in need of online strategies. They first format a strategy - which their team learns about the client’s needs and who their customer base is. Doing this will help identify the client’s needs and wants.
 
@@ -11,5 +11,5 @@ The Company (“Horiseon Social Solution Services, Inc.) inquired about debuggin
  **The Company’s refactored website:** https://jarellano562.github.io/horiseon_refactor_debug/
 
  **Refactor Webpage Below...**
- ![HOMEPAGE](/hori/images/refactor-webpage.jpg)
+ ![HOMEPAGE](./images/refactor-webpage.png)
  ______________________________________________________________________________________
