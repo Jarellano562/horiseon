@@ -13,3 +13,10 @@ The Company (“Horiseon Social Solution Services, Inc.) inquired about debuggin
  **Refactor Webpage Below...**
  ![HOMEPAGE](./images/refactor-webpage.png)
  ______________________________________________________________________________________
+ 
+
+ **Requirments:**
+ This webpage requires the following platforms: 
+ GitHub/VS Code/Internet Browser  
+
+ 
